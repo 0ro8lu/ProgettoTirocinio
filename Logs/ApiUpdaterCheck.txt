@@ -1,0 +1,130 @@
+[api-updater (non-obsolete-error-filter)] 3/3/2022 10:21:52 AM : Starting /home/jackpack/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 37.349ms
+moved types parse time: 30ms
+candidates parse time : 0ms
+C# parse time         : 127ms
+candidates check time : 18ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2022 10:25:57 AM : Starting /home/jackpack/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 24.588ms
+moved types parse time: 32ms
+candidates parse time : 0ms
+C# parse time         : 123ms
+candidates check time : 19ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2022 10:31:29 AM : Starting /home/jackpack/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 36.045ms
+moved types parse time: 31ms
+candidates parse time : 0ms
+C# parse time         : 127ms
+candidates check time : 19ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2022 10:44:04 AM : Starting /home/jackpack/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 26.003ms
+moved types parse time: 31ms
+candidates parse time : 0ms
+C# parse time         : 135ms
+candidates check time : 20ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2022 10:55:08 AM : Starting /home/jackpack/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 25.5ms
+moved types parse time: 30ms
+candidates parse time : 0ms
+C# parse time         : 129ms
+candidates check time : 21ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2022 10:55:55 AM : Starting /home/jackpack/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 25.764ms
+moved types parse time: 31ms
+candidates parse time : 0ms
+C# parse time         : 131ms
+candidates check time : 24ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2022 10:56:42 AM : Starting /home/jackpack/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 26.964ms
+moved types parse time: 31ms
+candidates parse time : 0ms
+C# parse time         : 128ms
+candidates check time : 20ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2022 11:28:49 AM : Starting /home/jackpack/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 27.93ms
+moved types parse time: 31ms
+candidates parse time : 0ms
+C# parse time         : 127ms
+candidates check time : 23ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2022 11:31:41 AM : Starting /home/jackpack/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 26.785ms
+moved types parse time: 31ms
+candidates parse time : 0ms
+C# parse time         : 124ms
+candidates check time : 22ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2022 11:32:20 AM : Starting /home/jackpack/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 66.106ms
+moved types parse time: 31ms
+candidates parse time : 0ms
+C# parse time         : 123ms
+candidates check time : 21ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2022 12:55:06 PM : Starting /home/jackpack/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 32.735ms
+moved types parse time: 31ms
+candidates parse time : 0ms
+C# parse time         : 125ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2022 12:55:56 PM : Starting /home/jackpack/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 53.901ms
+moved types parse time: 32ms
+candidates parse time : 0ms
+C# parse time         : 130ms
+candidates check time : 25ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2022 6:11:41 PM : Starting /home/jackpack/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 39.852ms
+moved types parse time: 34ms
+candidates parse time : 0ms
+C# parse time         : 142ms
+candidates check time : 27ms
+console write time    : 0ms
+
